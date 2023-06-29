@@ -47,7 +47,7 @@ Consumer side meter Schematics same for the Distribution side except for Relay (
 
 ## License
 
-Copyright © 2022 Abhijeet kumar. All rights reserved.
+Copyright © 2022 Aakash. All rights reserved.
 
 Licensed under the [MIT License](LICENSE).</br>
 #
